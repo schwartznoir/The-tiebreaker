@@ -1,0 +1,6 @@
+{
+  "name": "The Tiebreaker",
+  "description": "L'application d'aide à la décision ultime propulsée par l'IA : pour & contre pondérés, tableaux comparatifs multicritères, SWOT et arbitrage éclairé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
